@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
         'hello': 'hi:'
     })
 })
-const appPass = 'imvbdyooaqjgvjtq'
+const appPass = 'pialeziiazgylkhw'
 const sendEmail = (mail) => {
    
     let transporter = nodemailer.createTransport({
